@@ -50,6 +50,8 @@ Python, Node.js, or any other runtime is required.
    Lunox.exe
    yt-dlp.exe
    ffmpeg.exe
+   ffplay.exe
+   ffprobe.exe
    ```
 
 3. **Run** the application:
