@@ -63,8 +63,6 @@ template (for example `%(channel)s/%(title)s.%(ext)s`) in the UI.
 - Fixed: files were saved to the wrong location because the output folder was misused as the
   file-name template.
 - Fixed: the download now writes its output into the selected folder correctly.
-- Removed: automatic writing of `lunox_history.json` download-history file.
-- Removed: automatic sidecar subtitle (`.vtt`) files on normal video downloads.
 
 ## License
 
