@@ -43,23 +43,15 @@ Python, Node.js, or any other runtime is required.
 
 ### Steps
 
-1. **Download** the release archive and extract it to a folder of your choice.
-2. **Verify** that the following files are in the same folder:
-
-   ```
-   Lunox.exe
-   yt-dlp.exe
-   ffmpeg.exe
-   ffplay.exe
-   ffprobe.exe
-   ```
-
-3. **Run** the application:
+1. **Download** `Lunox.exe` and place it in a folder of your choice.
+2. **Run** the application:
 
    ```powershell
    .\Lunox.exe
    ```
 
+That's it. On first launch, Lunox automatically downloads everything it needs
+(`yt-dlp.exe`, `ffmpeg.exe`, `ffplay.exe`, `ffprobe.exe`) into the same folder.
 No further setup is required.
 
 ---
