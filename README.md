@@ -13,6 +13,14 @@
 
 ---
 
+## Screenshot
+
+<p align="center">
+  <img src="screenshot.png" alt="Lunox screenshot" width="720" />
+</p>
+
+---
+
 ## Overview
 
 Lunox is a no-install Windows desktop application for downloading video and audio from
@@ -23,14 +31,14 @@ Python, Node.js, or any other runtime is required.
 
 ## Features
 
-| Category            | Details                                                              |
-| ------------------- | -------------------------------------------------------------------- |
-| **Formats**         | MP4, MP3, M4A, video-only, best quality, subtitles                  |
-| **Quality**         | 144p → 2160p (4K)                                                    |
-| **Playlists**       | Full download or specific item ranges                                |
-| **Cookies**         | Reuse a logged-in browser session                                    |
-| **Options**         | Embedded subtitles/thumbnail/metadata, section download, speed limit, custom output folder |
-| **Compatibility**   | Windows 10 / 11, 64-bit                                              |
+| Category          | Details                                                                       |
+| ----------------- | ----------------------------------------------------------------------------- |
+| **Formats**       | MP4, MP3, M4A, video-only, best quality, subtitles                            |
+| **Quality**       | 144p to 2160p (4K)                                                            |
+| **Playlists**     | Full download or specific item ranges                                         |
+| **Cookies**       | Reuse a logged-in browser session                                             |
+| **Options**       | Embedded subtitles/thumbnail/metadata, section download, speed limit, custom output folder |
+| **Compatibility** | Windows 10 / 11, 64-bit                                                       |
 
 ---
 
