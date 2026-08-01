@@ -39,7 +39,6 @@ Python, Node.js, or any other runtime is required.
 ### Prerequisites
 
 - Windows 10 or 11 (64-bit)
-- An internet connection
 
 ### Steps
 
