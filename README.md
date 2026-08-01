@@ -13,14 +13,6 @@
 
 ---
 
-## Screenshot
-
-<p align="center">
-  <img src="screenshot.png" alt="Lunox screenshot" width="720" />
-</p>
-
----
-
 ## Overview
 
 Lunox is a no-install Windows desktop application for downloading video and audio from
