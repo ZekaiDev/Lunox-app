@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/platform-Windows%2010%2F11%20(64--bit)-0078D6?style=flat-square" alt="Platform" />
-  <img src="https://img.shields.io/badge/type-Portable-4caf50?style=flat-square" alt="Portable" />
-  <img src="https://img.shields.io/badge/runtime-None%20required-607d8b?style=flat-square" alt="Runtime" />
-  <img src="https://img.shields.io/badge/sites-1000%2B-9c27b0?style=flat-square" alt="Supported sites" />
-</p>
-
 <h1 align="center">Lunox</h1>
 <p align="center">
   <strong>A portable video &amp; audio downloader for Windows</strong><br />
@@ -25,11 +18,12 @@ Python, Node.js, or any other runtime is required.
 
 | Category          | Details                                                                       |
 | ----------------- | ----------------------------------------------------------------------------- |
-| **Formats**       | MP4, MP3, M4A, video-only, best quality, subtitles                            |
+| **Formats**       | MP4, WebM, MP3, M4A, video-only, best quality, subtitles                      |
 | **Quality**       | 144p to 2160p (4K)                                                            |
 | **Playlists**     | Full download or specific item ranges                                         |
 | **Cookies**       | Reuse a logged-in browser session                                             |
 | **Options**       | Embedded subtitles/thumbnail/metadata, section download, speed limit, custom output folder |
+| **Download Log**  | Download history is tracked automatically and stored locally                  |
 | **Compatibility** | Windows 10 / 11, 64-bit                                                       |
 
 ---
